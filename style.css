@@ -267,6 +267,10 @@ td, th{
 }
 
 @media screen and (max-width:480px){
+    body{
+        width: auto;
+    }
+
     h1{
         text-align: center;
     }
